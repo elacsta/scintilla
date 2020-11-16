@@ -1,29 +1,30 @@
 #-------------------------------
 # General Site Settings
 
-title: Galada Theme | Theme for Jekyll
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
-baseurl: "/galada" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Scintilla | ELACSTA
+description: Scintilla is the technical session under ELACSTA. An electronics and communication engineering department of NSS college of engineering Palakkad. # this means to ignore newlines until "baseurl:"
+baseurl: "/scintilla" # the subpath of your site, e.g. /blog
+url: "https://elacsta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   Natali Anderson
-author-avatar: 09.jpg
+author-name:   Ashwin C S
+author-avatar: 09.png
 
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
+facebook:  https://www.facebook.com/nssce.elacsta/ # Add your Facebook handle
 twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
+instagram: https://www.instagram.com/nssce.elacsta/ # Add your Facebook handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
+youtube: https://www.youtube.com/c/Elacsta/ # Add your youtube handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: scintilla # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
