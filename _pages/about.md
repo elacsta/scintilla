@@ -5,7 +5,8 @@ image: 08.jpg
 permalink: /about/
 ---
 
- 
+
+#### SCINTILLA  
 Electronics is wonderful world that throws up light to the inclines and declines of different circuits connecting different disconnection. One of its main attraction being *ELECTRONIC CIRCUITS DESIGNING*. With a great desire to encourage the young minds to explore and learn electronics through practical sessions we are bringing to you **"SCINTILLA"** on behalf of ELASCTA!
 Lets explore,learn and grow.
 
@@ -16,9 +17,10 @@ Lets explore,learn and grow.
 ELACSTA is an Electronics and Communication Department Students Association of NSS College of Engineering, Palakkad.
 It was formed in the year 2017 by the joint initiative of the faculty and staff members of the department.
 
-The main motive that drives ELASCTA is to help the budding ECE engineers by providing a platform which will help them enrich their technical knowledge through online channels(YouTube), workshops and events held in the college premises.
+The main motive that drives ELASCTA is to help the budding ECE engineers by providing a platform which will help them enrich their technical knowledge through online channels(YouTube), workshops and events held in the college premises.<br>
+Contact us : nssce.elacsta@gmail.com 
 > [Official Website](https://elacsta.github.io/)
-> Contact us : nssce.elacsta@gmail.com
+
 
 #### NSS College of engineering
 <small>Palakkad</small>
