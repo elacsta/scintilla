@@ -20,7 +20,7 @@ Hey folks! Don't miss this exciting opportunity to outshine yourself by simply g
 - **Duration**: 3 weeks<br>
 - **Task** : 5 tasks<br> 
 
-<div class="post-tag" onclick="document.location='https://forms.gle/5yHbv1nwGust2nHq5'">Register Here</div>
+<button class="post-tag" onclick="document.location='https://forms.gle/5yHbv1nwGust2nHq5'">Register Here</button>
 <!-- Register here -->
 <!-- https://forms.gle/5yHbv1nwGust2nHq5 -->
 
