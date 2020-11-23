@@ -10,19 +10,17 @@ tags:   Scintilla
 
 Hey folks! Don't miss this exciting opportunity to outshine yourself by simply giving wings to your ideas.
 ***SCINTILLA*** proudly present to you SCI-CHANTS A circuit designing competition in which you'll have to design simple electronic circuits using the basic electronic components.
-
-
-
+<br>
 ![]({{site.baseurl}}/img/12.jpg)
-
+<br>
 
 - **Date**: 30 November<br> 
 - **Duration**: 3 weeks<br>
 - **Task** : 5 tasks<br> 
 
-<button class="post-tag" onclick="document.location='https://forms.gle/5yHbv1nwGust2nHq5'">Register Here</button>
-<!-- Register here -->
+Register below
 <!-- https://forms.gle/5yHbv1nwGust2nHq5 -->
+<iframe src="https://forms.gle/5yHbv1nwGust2nHq5"></iframe>
 
 **The winner will be decided based on the cumulative score.**
 
