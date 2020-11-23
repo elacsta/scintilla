@@ -12,12 +12,15 @@ Hey folks! Don't miss this exciting opportunity to outshine yourself by simply g
 ***SCINTILLA*** proudly present to you SCI-CHANTS A circuit designing competition in which you'll have to design simple electronic circuits using the basic electronic components.
 
 
+
 ![]({{site.baseurl}}/img/12.jpg)
 
-> *Date*: 30 November<br> 
-> *Duration*: 3 weeks(one or two tasks per week) 
 
-<button onclick="document.location='https://forms.gle/5yHbv1nwGust2nHq5'">Register Here</button>
+- **Date**: 30 November<br> 
+- **Duration**: 3 weeks<br>
+- **Task** : 5 tasks<br> 
+
+<div class="post-tag" onclick="document.location='https://forms.gle/5yHbv1nwGust2nHq5'">Register Here</div>
 <!-- Register here -->
 <!-- https://forms.gle/5yHbv1nwGust2nHq5 -->
 
