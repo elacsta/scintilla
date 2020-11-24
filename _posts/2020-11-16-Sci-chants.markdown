@@ -20,7 +20,7 @@ Hey folks! Don't miss this exciting opportunity to outshine yourself by simply g
 
 Register below
 <!-- https://forms.gle/5yHbv1nwGust2nHq5 -->
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfXkZ5urAD13nzqORUYaxxUHUWTRa38rf7f8E5CJQ4UM0CJOQ/viewform?embedded=true" width="640" height="1597" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfXkZ5urAD13nzqORUYaxxUHUWTRa38rf7f8E5CJQ4UM0CJOQ/viewform?embedded=true" width="100%" height="1597" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 **The winner will be decided based on the cumulative score.**
 
