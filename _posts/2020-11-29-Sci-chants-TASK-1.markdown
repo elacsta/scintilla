@@ -2,7 +2,7 @@
 layout: post
 title:  Sci-Chants - Task 1
 date:   2020-11-29 18:00:00 +0530
-image:  TASK 1.jpg
+image:  TASK1.jpg
 tags:   [SciChants, Task 1]
 ---
 
