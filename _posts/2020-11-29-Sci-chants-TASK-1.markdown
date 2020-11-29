@@ -3,7 +3,7 @@ layout: post
 title:  Sci-Chants - Task 1
 date:   2020-11-29 18:00:00 +0530
 image:  TASK 1.jpg
-tags:   Task 1
+tags:   [SciChants, Task 1]
 ---
 
 > ***Problem Statement - WEEK 1***
@@ -22,4 +22,4 @@ In short, the circuit should switch on the lamp when it is dark inside the room 
 All the very best and stay tuned for the next tasks.
 
 Please submit your solutions through the below provided link.
-Link : http://tiny.cc/Task-1
+Link : [http://tiny.cc/Task-1](http://tiny.cc/Task-1)
