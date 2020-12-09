@@ -10,8 +10,6 @@ tags:   [InterviewExperience, ALSTOM]
 ### **General Recruitment Description :** 
 <br>
 
-![alt text](file:///home/ubuntu/Documents/project/main%20project/scintilla%20blog/galada-master/img/ALSTOM.jpg)
-
 **Company :** ALSTOM<br>
 **Company Type :** Locomotive Manufacturing company (Core)<br>
 **Package :** 6LPA<br>
@@ -43,6 +41,11 @@ tags:   [InterviewExperience, ALSTOM]
 <br>
 <hr>
 
+<!-- <iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe> -->
+
+<iframe src="https://www.youtube.com/embed/SFRqlwbmKts" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
+
+<hr>
 ## Personal Experiences #1: 
 
 **Name:** Anagha M                                          
