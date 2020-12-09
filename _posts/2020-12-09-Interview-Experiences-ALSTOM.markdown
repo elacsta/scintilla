@@ -63,7 +63,23 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
+
 ## Personal Experiences #2: 
+
+**Name:** Krishna Raghunathan                                        
+**Status :** Selected
+
+<br>The first round is of-course an aptitude test. However it is good to brush up on technical questions too because they were asked a few years ago. Referring to sites like Indiabix is good for the aptitude section. Sites like Sanfoundry are good for technical MCQs
+
+<br>The group discussion round was a bit difficult this year because it was conducted in the online mode and that makes it difficult to put our points forward compared to an offline gd. However it's all about our etiquette, grammar and not straying away from the topic. 
+
+<br>The interview process was not as difficult as I expected and they asked me questions about my projects and two of my preferred subjects. Never be afraid to admit that you don't know the answer to a question. Just politely say you haven't brushed up on that topic recently. Appearing nervous might give them the wrong idea so look confident with yourself.
+
+<br>
+<hr>
+<br>
+
+## Personal Experiences #3: 
 
 **Name:** NSS’ian                                          
 **Status :** Selected
@@ -78,7 +94,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #3: 
+## Personal Experiences #4: 
 
 
 **Name:** NSS’ian                                          
@@ -96,7 +112,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #4: 
+## Personal Experiences #5: 
 
 **Name:** NSS’ian                                          
 **Status:** Not Selected
@@ -113,7 +129,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #4:
+## Personal Experiences #6:
 
 **Name:** Aiswarya G                                         
 **Status:** Not Selected
@@ -128,7 +144,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #6: 
+## Personal Experiences #7: 
 
 **Name:** Akshaya S Nair                                         
 **Status:** Not Selected
@@ -143,7 +159,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #7: 
+## Personal Experiences #8: 
 
 **Name:** NSS’ian                                             
 **Status:** Not Selected
@@ -156,7 +172,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #8: 
+## Personal Experiences #9: 
 
 **Name:** NSS’ian                                     
 **Status:** Not Selected
@@ -167,7 +183,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #9: 
+## Personal Experiences #10: 
 
 **Name:** Lakshmi                                     
 **Status:** Not Selected
@@ -178,7 +194,7 @@ tags:   [InterviewExperience, ALSTOM]
 <hr>
 <br>
 
-## Personal Experiences #10: 
+## Personal Experiences #11: 
 
 **Name:** Aparna Anil                                
 **Status:** Not Selected
