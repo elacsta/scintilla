@@ -4,12 +4,9 @@ title: ECE Textbook
 image: 08.jpg
 permalink: /textbooks/
 ---
-
-<div class="container>
             
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/eZTZeFCK0ek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div>
 
 <br>
  
@@ -314,4 +311,5 @@ Come join us, to explore the best in YOU !
 </div>
 
  <br>
-<a  href="pranav.teambery.in"><button >Click here for accesing the content </button></a>
+ <a href="https://t.me/joinchat/AAAAAFECo0lqw0C9Qlw93Q" style="border-radius:4px">Click here for accesing the content</a>
+
