@@ -1,22 +1,27 @@
 ---
 layout: page
-title: About
+title: ECE Textbook
 image: 08.jpg
-permalink: /books/
+permalink: /textbooks/
 ---
 
 
-#### SCINTILLA  
-Electronics is wonderful world that throws up light to the inclines and declines of different circuits connecting different disconnection. One of its main attraction being *ELECTRONIC CIRCUITS DESIGNING*. With a great desire to encourage the young minds to explore and learn electronics through practical sessions we are bringing to you **"SCINTILLA"** on behalf of ELASCTA!
-Lets explore,learn and grow.
 
+👉🏻Confused of where to search for study materials ? 
+👉🏻Want to join a Community of Enthusiastic and Helpful peers ?
+👉🏻Looking for Project and Placement resources ?
+👉🏻Is it difficult to get updated about the new opportunities ?
+
+Don't worry, ELACSTA is introducing it's brand new Telegram Community LUMOS. 
+
+♦️TP Series, KTU Notes, GATE Notes, CAT Notes, UPSC materials, Placement and Programming related Materials.♦️
+
+Come join us, to explore the best in YOU !
 ### LIST OF BOOKS
-<div class="table-container" border="1">
+
+  ## S1/S2 Textbook
+ 
 <table cellspacing="0" border="1">
-        <tr>
-            <td>S1 and S2</td>
-            <td>Textbook</td>
-        </tr>
         <tr>
             <td>Linear Algebra</td>
             <td></td>
@@ -54,13 +59,10 @@ Lets explore,learn and grow.
 
 <br>
 
+  ## S3 Textbook
 
 <div class="table-container" border="1">
   <table cellspacing="0" border="">
-        <tr>
-            <td>S3</td>
-            <td>Textbook</b></td>
-        </tr>
         <tr>
             <td>Maths-MAT201</td>
             <td>Advanced engg mathematics,Erwin Kreyszig</td>
@@ -85,12 +87,10 @@ Lets explore,learn and grow.
 </div>
 <br>
 
+  ## S4 Textbook
+
 <div class="table-container" border="1">
 <table cellspacing="0" border="1">
-        <tr>
-            <td>S4 </b></td>
-            <td>Textbook</td>
-        </tr>
         <tr>
             <td  > Analog circuits </td>
             <td  > Electronic devices and circuit theory, Robert L.Boylestad </td>
@@ -112,12 +112,10 @@ Lets explore,learn and grow.
 
 <br>
 
+ ## S5 Textbook
+
 <div class="table-container" border="1">
   <table cellspacing="0" border="1">
-        <tr>
-            <td  >S5  </td>
-            <td  >Textbook  </td>
-        </tr>
         <tr>
             <td  >Digital signal processing </td>
             <td  >Digital signal processing 3e, John G. Proakis </td>
@@ -166,12 +164,10 @@ Lets explore,learn and grow.
 </div>
 <br>
 
+  ## S6 Textbook
+
 <div class="table-container" border="1">
    <table cellspacing="0" border="1">
-        <tr>
-            <td  ><b> S6 </b></td>
-            <td  > <br> </td>
-        </tr>
         <tr>
             <td  > Digital communication </td>
             <td  > Digital comm. Systems, Simon Haykin </td>
@@ -216,13 +212,9 @@ Lets explore,learn and grow.
 </div>
 <br>
 
-
+ ## S7 Textbook
 <div class="table-container" border="1">
      <table cellspacing="0" border="1">
-        <tr>
-            <td > S7 </td>
-            <td > </td>
-        </tr>
         <tr>
             <td > Microwave and radar engg </td>
             <td > Microwave engg 2e, David M. Pozar </td>
@@ -273,13 +265,10 @@ Lets explore,learn and grow.
 </div>
 <br>
 
+ ## S8 Textbook
+
 <div class="table-container" border="1">
 <table cellspacing="0" border="1">
->
-        <tr>
-            <td ><b> >S8 </b></td>
-            <td  ><br>Textbook </td>
-        </tr>
         <tr>
             <td  >Nano electronics </td>
             <td  ><br> </td>
