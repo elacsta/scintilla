@@ -17,7 +17,6 @@ Don't worry, ELACSTA is introducing it's brand new Telegram Community LUMOS.
 ♦️TP Series, KTU Notes, GATE Notes, CAT Notes, UPSC materials, Placement and Programming related Materials.♦️
 
 Come join us, to explore the best in YOU !
-### LIST OF BOOKS
 
   ## S1/S2 Textbook
  
