@@ -81,14 +81,14 @@ tags:   [InterviewExperience, ALSTOM]
 
 ## Personal Experiences #3: 
 
-**Name:** NSS’ian                                          
+**Name:** Amrutha R                                        
 **Status :** Selected
 
-<br> All we need to do is practice well. And we have to do it by adjusting the time. So we have to give importance to time management while practicing. The theory is very basic mathematical knowledge. So thorough practice could help us a lot to crack this section.
+<br> For aptitude round,all we need to do is practice well. Time management is important,So we have to give more importance to it while practicing. The theory is very basic mathematical knowledge. So thorough practice could help us a lot to crack this section. The questions were from Numerical, Reasoning, Verbal, etc. Indiabix, Adda like apps are good for practicing.
 
 <br> Next, the online GD was a good experience. We have to clearly specify our points. Make sure that the points are not repeated. Please listen to the points of others. Give others also a chance to speak. Don't try to overtake the whole GD. In conclusion try to summarise the main points. Express your ideas politely and confidently.
 
-<br> In the interview, major questions were from ECE core. The questions were based on our favorite subject. And we should be able to describe the application part also. The questions were mostly from the electronics and digital circuits. Mainly they ask from our favorite subjects we have mentioned.
+<br> for technical interview, they started by asking the usual question, that is self introduction. Then they asked me about my favorite subject. The rest of the questions were from those subject, which I mentioned as my favourite subject. The questions were not that much difficult and are from basic theories. we could expect application type questions also. It should we very helpful, if you revise the core subjects for interview. In HR round also they started by self introduction and then they asked few questions like ‘why do you chose ECE?’, and some questions from my resume. Overall it was a very good experience.
 
 <br>
 <hr>
@@ -200,3 +200,20 @@ tags:   [InterviewExperience, ALSTOM]
 **Status:** Not Selected
 
 <br> Test consisted of Numerical, Verbal Section and Reasoning. Questions were from Time,speed and distance, Data interpretation etc. Get a thorough base first and practice more, your speed really matters. I referred to Indiabix for the numerical part.
+
+<br>
+<hr>
+<br>
+
+## Personal Experience #12:
+
+**Name:** Anjana Devarajan
+**Status:** Not Selected
+
+<br>The first round was the written test and was quite easy. Only basic aptitude questions were asked.
+
+<br>The second round was group discussion and the topic for our group was 'National Education Policy'. Make sure that you use the key words like 'sorry to interrupt' etc during gd. Present valid points and listen to what others say because you might be asked to summarise. 
+
+<br>The next round was technical interview and I was wasn't able to qualify it. They ask your favourite subject and then ask basic questions from it like what is a system, types of systems, to draw FM modulator, digram of FM wave form. They also ask questions related to your projects.
+I was really tensed for the interview and my preparation was not sufficient. We hardly had a day to prepare for the interview.
+Despite the fact that I wasn't able to qualify it, I learned that you have to be technically sound and prepare for basic HR questions in advance..like introduce yourself, your strength and weakness. It is days of preparation and positiveness that can finally make you successful.
