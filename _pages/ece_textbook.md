@@ -1,12 +1,11 @@
 ---
 layout: page
-title: ECE Textbook
+title: ECE Textbooks
 image: 08.jpg
 permalink: /textbooks/
 ---
             
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/eZTZeFCK0ek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe src="https://www.youtube.com/embed/eZTZeFCK0ek" frameborder="0" allow="picture-in-picture" allowfullscreen></iframe>
 
 <br>
  
@@ -16,13 +15,11 @@ permalink: /textbooks/
 👉🏻Looking for Project and Placement resources ? <br>
 👉🏻Is it difficult to get updated about the new opportunities ? <br>
 
-Don't worry, ELACSTA is introducing it's brand new Telegram Community LUMOS. 
-
-♦️TP Series, KTU Notes, GATE Notes, CAT Notes, UPSC materials, Placement and Programming related Materials.♦️
-
+Don't worry, Team ELACSTA is introducing it's brand new Telegram Community LUMOS. 
+TP Series, KTU Notes, GATE Notes, CAT Notes, UPSC materials, Placement and Programming related Materials. 
 Come join us, to explore the best in YOU !
 
-  ## S1/S2 Textbook
+## S1/S2 Textbook
  
 <table cellspacing="0" border="1">
         <tr>
@@ -31,7 +28,7 @@ Come join us, to explore the best in YOU !
         </tr>
         <tr>
             <td>Vector Calculus</td>
-            <td</td>
+            <td></td>
         </tr>
         <tr>
             <td>Engg Physics</td>
@@ -62,7 +59,7 @@ Come join us, to explore the best in YOU !
 
 <br>
 
-  ## S3 Textbook
+## S3 Textbook
 
 <div class="table-container" border="1">
   <table cellspacing="0" border="">
@@ -90,7 +87,7 @@ Come join us, to explore the best in YOU !
 </div>
 <br>
 
-  ## S4 Textbook
+## S4 Textbook
 
 <div class="table-container" border="1">
 <table cellspacing="0" border="1">
@@ -115,7 +112,7 @@ Come join us, to explore the best in YOU !
 
 <br>
 
- ## S5 Textbook
+## S5 Textbook
 
 <div class="table-container" border="1">
   <table cellspacing="0" border="1">
@@ -167,7 +164,7 @@ Come join us, to explore the best in YOU !
 </div>
 <br>
 
-  ## S6 Textbook
+## S6 Textbook
 
 <div class="table-container" border="1">
    <table cellspacing="0" border="1">
@@ -215,7 +212,7 @@ Come join us, to explore the best in YOU !
 </div>
 <br>
 
- ## S7 Textbook
+## S7 Textbook
 <div class="table-container" border="1">
      <table cellspacing="0" border="1">
         <tr>
@@ -268,7 +265,7 @@ Come join us, to explore the best in YOU !
 </div>
 <br>
 
- ## S8 Textbook
+## S8 Textbook
 
 <div class="table-container" border="1">
 <table cellspacing="0" border="1">
@@ -306,10 +303,13 @@ Come join us, to explore the best in YOU !
         </tr>
     </table>
    
-        
-        
+    
 </div>
 
  <br>
  <a href="https://t.me/joinchat/AAAAAFECo0lqw0C9Qlw93Q" style="border-radius:4px">Click here for accesing the content</a>
+
+[Click me](https://t.me/joinchat/AAAAAFECo0lqw0C9Qlw93Q){: .btn}
+
+<button name="button" onclick="http://www.google.com">Click me</button>
 
