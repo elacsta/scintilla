@@ -19,45 +19,56 @@ Don't worry, Team ELACSTA is introducing it's brand new Telegram Community LUMOS
 TP Series, KTU Notes, GATE Notes, CAT Notes, UPSC materials, Placement and Programming related Materials. 
 Come join us, to explore the best in YOU !
 
+##### Join the telegram group to access all the below textbook materials and other resources.
+
+
+<center>    
+    <a href="https://t.me/joinchat/AAAAAFECo0lqw0C9Qlw93Q" class="myButton"> Join Us</a>
+</center>
+
+<br>
+<hr>
+
+
 ## S1/S2 Textbook
  
 <table cellspacing="0" border="1">
-        <tr>
-            <td>Linear Algebra</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Vector Calculus</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Engg Physics</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Engg Chemistry</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Engg Mechanics</td>
-            <td>Engg Mechanics, K L Kumar</td>
-        </tr>
-        <tr>
-            <td>Engg Graphics</td>
-            <td>Engg Graphics, K.C.John</td>
-        </tr>
-        <tr>
-            <td>Basics of civil and mechanical</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Basics of electrical and electronics</td>
-            <td></td>
-        </tr>
-    </table>
-</div>
+    <tr>
+        <td>Linear Algebra</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Vector Calculus</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Engg Physics</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Engg Chemistry</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Engg Mechanics</td>
+        <td>Engg Mechanics, K L Kumar</td>
+    </tr>
+    <tr>
+        <td>Engg Graphics</td>
+        <td>Engg Graphics, K.C.John</td>
+    </tr>
+    <tr>
+        <td>Basics of civil and mechanical</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Basics of electrical and electronics</td>
+        <td></td>
+    </tr>
+</table>
 
 <br>
+<hr>
 
 ## S3 Textbook
 
@@ -81,11 +92,13 @@ Come join us, to explore the best in YOU !
         </tr>
         <tr>
             <td>Design and engg</td>
-            <td</td>
+            <td></td>
         </tr>
     </table>
 </div>
+
 <br>
+<hr>
 
 ## S4 Textbook
 
@@ -111,6 +124,7 @@ Come join us, to explore the best in YOU !
 </div>
 
 <br>
+<hr>
 
 ## S5 Textbook
 
@@ -162,7 +176,9 @@ Come join us, to explore the best in YOU !
         </tr>
     </table>
 </div>
+
 <br>
+<hr>
 
 ## S6 Textbook
 
@@ -210,7 +226,9 @@ Come join us, to explore the best in YOU !
         </tr>
     </table>
 </div>
+
 <br>
+<hr>
 
 ## S7 Textbook
 <div class="table-container" border="1">
@@ -259,11 +277,11 @@ Come join us, to explore the best in YOU !
             <td > Opto Electronic Devices </td>
             <td > </td>
         </tr>
-        >
-        >
     </table>
 </div>
+
 <br>
+<hr>
 
 ## S8 Textbook
 
@@ -271,7 +289,7 @@ Come join us, to explore the best in YOU !
 <table cellspacing="0" border="1">
         <tr>
             <td  >Nano electronics </td>
-            <td  ><br> </td>
+            <td  > Adding soon</td>
         </tr>
         <tr>
             <td  >Advanced communication systems </td>
@@ -302,14 +320,40 @@ Come join us, to explore the best in YOU !
             <td  ><br> </td>
         </tr>
     </table>
-   
-    
 </div>
 
- <br>
- <a href="https://t.me/joinchat/AAAAAFECo0lqw0C9Qlw93Q" style="border-radius:4px">Click here for accesing the content</a>
+<br>
+<hr>
 
-[Click me](https://t.me/joinchat/AAAAAFECo0lqw0C9Qlw93Q){: .btn}
+##### Join the telegram group to access all the above textbook materials and other resources.
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<center>
+    <a href="https://t.me/joinchat/AAAAAFECo0lqw0C9Qlw93Q" class="myButton"> Join Us</a>
+</center>
 
+<style type="text/css">
+.myButton {
+    box-shadow: 0px 17px 14px -8px #3e7327;
+    background:linear-gradient(to bottom, #77b55a 5%, #72b352 100%);
+    background-color:#77b55a;
+    border-radius:23px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    font-weight:bold;
+    padding:15px 32px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #5b8a3c;
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #72b352 5%, #77b55a 100%);
+    background-color:#72b352;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
+</style>
