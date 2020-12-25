@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Interview Experience - Cognizant Technology Solutions(CTS)
-date:   2020-12-25 18:00:00 +0530
+date:   2020-12-25 1900:00 +0530
 image:  cts logo.jpg
 tags:   [InterviewExperience, CTS]
 ---
