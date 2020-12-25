@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Interview Experience - Cognizant Technology Solutions(CTS)
-date:   2020-12-25 1900:00 +0530
-image:  cts logo.jpg
+date:   2020-12-25 19:00:00 +0530
+image:  cts-logo.jpg
 tags:   [InterviewExperience, CTS]
 ---
 
@@ -15,8 +15,7 @@ tags:   [InterviewExperience, CTS]
 **Package :** 4 LPA<br>
 **Website :** [www.cognizant.com/india](www.cognizant.com/india)<br>
 **Recruitment Type :** On Campus <br>
-**Average Difficulty (out of
- 5) :** 3 <br> 
+**Average Difficulty (out of 5) :** 3 <br> 
 **Mode of Exam:** Online <br>
 **Date of Exam :** 17,18 October 2020 <br>
 **Number of stages :** 2 <br> 
