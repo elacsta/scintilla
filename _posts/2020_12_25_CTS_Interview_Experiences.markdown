@@ -33,8 +33,9 @@ tags:   [InterviewExperience, CTS]
 	- [Freshersworld](https://www.freshersworld.com/)
 	- [Careerride](https://www.careerride.com/online-aptitude-test.aspx)
 	- [Indiabix](https://www.indiabix.com/)
-  - [Prepinsta](https://prepinsta.com/tcs-nqt/placement-papers/)
+        - [Prepinsta](https://prepinsta.com/tcs-nqt/placement-papers/)
 	- RS Aggarwal book
+- **For coding you can use the below platforms**
   - [Hackerrank](www.hackerrank.com)
   - [Geeksforgeeks](https://www.geeksforgeeks.org/tag/tcs-coding-questions/)
   - [Hackerearth](www.hackerearth.com)
