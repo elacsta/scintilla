@@ -29,6 +29,7 @@ Come join us, to explore the best in YOU !
 <br>
 <hr>
 
+The given below textbooks are uploaded in the group.
 
 ## S1/S2 Textbook
  
