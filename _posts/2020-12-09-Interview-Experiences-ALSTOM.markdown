@@ -4,7 +4,7 @@ title:  Interview Experience - ALSTOM
 date:   2020-12-09 18:00:00 +0530
 image:  ALSTOM.jpg
 author-name: Ashwin C S
-author-avatar: 09.png
+author-avatar: ashwin-avatar.png
 tags:   [InterviewExperience, ALSTOM]
 ---
 

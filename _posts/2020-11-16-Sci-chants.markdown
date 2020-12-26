@@ -4,7 +4,7 @@ title:  Sci-Chants
 date:   2020-11-23 16:00:00 +0530
 image:  05.jpg
 author-name: Ashwin C S
-author-avatar: 09.png
+author-avatar: ashwin-avatar.png
 tags:   SciChants 
 ---
 
