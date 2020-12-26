@@ -4,6 +4,7 @@ title:  Interview Experience - Cognizant Technology Solutions(CTS)
 date:   2020-12-25 19:00:00 +0530
 image:  cts-logo.jpg
 author-name: Amrutha R
+author-avatar: girl-avatar.png
 tags:   [InterviewExperience, CTS]
 ---
 
