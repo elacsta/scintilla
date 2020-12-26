@@ -3,6 +3,7 @@ layout: post
 title:  Sci-Chants - Task 1
 date:   2020-11-29 18:00:00 +0530
 image:  TASK1.jpg
+author-name: Ashwin C S
 tags:   [SciChants, Task 1]
 ---
 

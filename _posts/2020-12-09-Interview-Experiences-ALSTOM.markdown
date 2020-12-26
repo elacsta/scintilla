@@ -3,6 +3,7 @@ layout: post
 title:  Interview Experience - ALSTOM
 date:   2020-12-09 18:00:00 +0530
 image:  ALSTOM.jpg
+author-name: Ashwin C S
 tags:   [InterviewExperience, ALSTOM]
 ---
 

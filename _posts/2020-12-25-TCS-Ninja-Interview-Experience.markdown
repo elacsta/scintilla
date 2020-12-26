@@ -3,6 +3,7 @@ layout: post
 title:  Interview Experience - TCS Ninja
 date:   2020-12-25 18:00:00 +0530
 image:  TCS-logo.jpg
+author-name: Sreenidhi
 tags:   [InterviewExperience, TCS Ninja]
 ---
 
